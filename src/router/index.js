@@ -11,7 +11,7 @@ const router = new VueRouter({
         },
         {
             path:'/index',
-            component:login
+            component:index
         },
     ]
 })
