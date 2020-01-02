@@ -1,14 +1,14 @@
 <template>
   <div>
-  <router-view></router-view>
+      <p>
+          这是首页
+      </p>
   </div>
 </template>
 
 <script>
-
 export default {
-  name: 'app',
-  
+    name:'index'
 }
 </script>
 
